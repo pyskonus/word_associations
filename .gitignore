@@ -1,3 +1,9 @@
 # folders
+.idea
+docs
+examples
+tests
+venv
 
 #files
+as_dict.ods
