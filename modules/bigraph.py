@@ -301,3 +301,6 @@ class Bigraph:
             return res
         else:
             raise ValueError("The element is not in the graph")
+
+    def supplement_incentive(self, word):
+        pass
